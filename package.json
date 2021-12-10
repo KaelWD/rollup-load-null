@@ -1,0 +1,13 @@
+{
+  "name": "rollup-load-null",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kael <kaelwd@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "devDependencies": {
+    "rollup": "^2.61.0"
+  }
+}
